@@ -49,7 +49,7 @@ Oscarson,O. (2015). Design, modeling and control of an octocopter. Kth royal ins
 Walter, Ariel & Mckay, Michael & Niemiec, Robert & Gandhi, Feny. (2018). Trim Analysis of a Classical Octocopter After Single-Rotor Failure. 10.2514/6.2018-5035.
 
 <a id="3">[3]</a> 
-https://www.mathworks.com/matlabcentral/fileexchange/97192-quadcopter-model-matlab-code-for-animation?s_tid=srchtitle
+jitendra singh (2022). Quadcopter model: Matlab Code for Animation (https://www.mathworks.com/matlabcentral/fileexchange/97192-quadcopter-model-matlab-code-for-animation), MATLAB Central File Exchange. Retrieved May 25, 2022.
 
 # Final note
 I hope that this will be beneficial for your usage. For any bug or question please feel free to ask. You can find me on <a href="https://www.linkedin.com/in/do%C4%9Fan-yildiz-14a33123/"> <img src="/Images/linkedin.png" alt="LinkedIn Badge" width="20" height="20"/> </a>
