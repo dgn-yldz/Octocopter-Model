@@ -13,7 +13,7 @@ The projects consists of the initialize parametr .m file and the star shape octo
 4. The first rotor in the direction of  X<sub>B</sub> and it is clockwise direction (CW). The rest repeats the pattern counter clockwise (CCW) and CW respectively.
 5. Octocopter model consists of;
    - Reference signal generator
-   - PID cascade controller for rate and attitude control of Euler angles
+   - PID cascade controller for rate, attitude, and altitude control of Octocopter
    - Control allocation matrix calculation
    - Motor force and torque calculation
    - Nonlinear octocopter flight dynamics [[1]](#1)
