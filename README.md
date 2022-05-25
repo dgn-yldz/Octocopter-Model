@@ -25,16 +25,21 @@ The projects consists of the initialize parametr .m file and the star shape octo
 # How to use
 To run the model you simply follow the below steps.
 
-1. Run initVariable.m file to initialize the parameters. (You can change the parameters to simulate different octocopter models)
-2. The model is directly opened. Run the simulink model by pressing play button.
+1. Run exampleCase.m file to initialize the parameters. (You can change the parameters to simulate different octocopter models)
+2. The model is directly opened and run.
 
 # Notes on Model and Abilites 
 With the octocopter model, you can adjust;
 * Initial condition of states
 * PID controller gain parameter
 * Reference signal parameters
+* Simulation parameters
 * Error signal generator in case of analyzing rotor failure. [[2]](#2)
-* Drone animation is also added to visualize to behavior of octocopter.[[3]](#3)
+* Drone animation is also added to visualize to behavior of octocopter.[[3]](#3) Note that the frame direction in inertial frame is different from the direction in       animation frame.The red propeller shows positive x-direction in octocopter frame and the blue propeller shows the positive y-direction in octocopter frame. 
+
+<p align="center">
+  <img width="600" height="450" src="/Images/octoAnimationgif.gif">
+</p>
 
 # References
 <a id="1">[1]</a> 
